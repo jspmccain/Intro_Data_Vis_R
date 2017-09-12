@@ -6,4 +6,4 @@ The ".R" file will be used for during the tutorial. The PDF file can be used for
 
 What to do before coming:
 
-- Install (R Studio)[https://www.rstudio.com/] and R
+- Install R Studio [https://www.rstudio.com/]
